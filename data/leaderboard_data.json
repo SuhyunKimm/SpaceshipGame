@@ -1,0 +1,72 @@
+[
+  {
+    "user_id": "7363da81",
+    "rank": 3,
+    "country": "us",
+    "display_name": "Alexandra",
+    "points": 119
+  },
+  {
+    "user_id": "b8f29e10",
+    "rank": 10,
+    "country": "it",
+    "display_name": "Deirdre",
+    "points": 76
+  },
+  {
+    "user_id": "ca15e28a",
+    "rank": 2,
+    "country": "fr",
+    "display_name": "Thornton",
+    "points": 121
+  },
+  {
+    "user_id": "48c58adb",
+    "rank": 7,
+    "country": "uk",
+    "display_name": "Rita",
+    "points": 90
+  },
+  {
+    "user_id": "67a12756",
+    "rank": 1,
+    "country": "tr",
+    "display_name": "Lolita",
+    "points": 127
+  },
+  {
+    "user_id": "92b20297",
+    "rank": 9,
+    "country": "it",
+    "display_name": "Darcy",
+    "points": 80
+  },
+  {
+    "user_id": "0d12d56d",
+    "rank": 4,
+    "country": "uk",
+    "display_name": "Skinner",
+    "points": 105
+  },
+  {
+    "user_id": "868b2478",
+    "rank": 8,
+    "country": "us",
+    "display_name": "Hurley",
+    "points": 83
+  },
+  {
+    "user_id": "e37ef861",
+    "rank": 6,
+    "country": "uk",
+    "display_name": "Claire",
+    "points": 94
+  },
+  {
+    "user_id": "91ead359",
+    "rank": 5,
+    "country": "uk",
+    "display_name": "Alyce",
+    "points": 97
+  }
+]
